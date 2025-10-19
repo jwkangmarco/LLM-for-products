@@ -18,6 +18,6 @@ The below table will be updated weekly basis.
 
 date | speaker | topic | slide
 -- | -- | -- | --
-2025.10.20 | Marco | day1: opening and ML basic | [ppt](https://docs.google.com/presentation/d/12iKYgNHDe_5c6z44w1OolcvtuLiWxZajwu8zluXPtT4/edit?slide=id.g38f1706f783_0_0#slide=id.g38f1706f783_0_0)
+2025.10.20 | Marco | day1: opening and ML basic | [ppt](https://docs.google.com/presentation/d/1Q8ZINCC7XbK7nelZIqVXO8eqei6NvZ3UFFcRw8iH39Y/edit?slide=id.g39b05b701d4_0_149#slide=id.g39b05b701d4_0_149)
 
 
