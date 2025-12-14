@@ -24,3 +24,5 @@ date | speaker | topic | slide
 2025.11.17 | Marco | day4: LLM tasks and benchmarks | [ppt](https://docs.google.com/presentation/d/1gHmSF6OasQ6LRZZ3zgDuZFJH9-KTeXo3SEOqLS96xM0/edit?slide=id.g3a448ca1d7c_0_430#slide=id.g3a448ca1d7c_0_430), [pdf](https://github.com/user-attachments/files/23693861/day4_.LLM.task.and.benchmark.2.pdf)
 2025.11.23 | Marco | day5: tokenization 101 | [ppt](https://docs.google.com/presentation/d/1-h4ic54hWO4kam_vxJHs6N8quSP_qm_f3mou_zrrg08/edit?slide=id.p#slide=id.p), [pdf](https://github.com/user-attachments/files/23694976/Day5_.tokenization.101.pdf)
 2025.12.08 | Marco | day6: embedding 101 | [ppt](https://docs.google.com/presentation/d/1yNNpo4ipXYk4aWxXNnkZgJgjpJLZzWvOkc0lnL4IpWY/edit?slide=id.p#slide=id.p), [pdf](https://github.com/user-attachments/files/24016049/Day6_Embedding.101.pdf)
+2025.12.15 | Marco | day7: transformers 101 | [ppt](https://docs.google.com/presentation/d/13BVrmB59QKKMwRCqudVAf9El30ghlUA6zr8fr0S9QSA/edit?slide=id.p#slide=id.p), [pdf](https://github.com/user-attachments/files/24150682/Day7_.Transformers-marco.pdf)
+
